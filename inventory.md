@@ -29,7 +29,11 @@ An inventory management web application. It is developed using PHP laravel frame
 * "laracasts/flash": For Flash messaging
 * "laravelcollective/html": For Form and html
 * "nwidart/laravel-modules": For creating and mangeing module
-* "unisharp/laravel-filemanager": To manage file and image uploading
+* "unisharp/laravel-filemanager": To manage file and image uploading and creating image thumbnails.
 * "predis/predis": For using Redis
 * "pusher/pusher-php-server": For using pusher with broadcasing
 * "barryvdh/laravel-cors": For API call without CSRF token
+
+## Entity relationship diagram
+
+![Entity relationship diagram](https://github.com/almamuncsit/projects/blob/master/inventory/dashboard.png "Entity relationship diagram")
