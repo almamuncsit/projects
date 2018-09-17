@@ -1,6 +1,6 @@
 # Inventory Management
 
-An inventory management web application. It is developed using PHP laravel framework. Each module of this project is independent reusable package. I used queue with redis for sending email, SMS and others time consuming task and passport package for API authentication. For frontend i used AngularJs. Broadcasting with pusher for sending notifications.
+An inventory management web application. It is developed using PHP laravel framework. Each module of this project is independent reusable package. I used queue with redis for sending email, SMS and others time consuming task and passport package for API authentication. Broadcasting with pusher for sending notifications. For frontend i used AngularJs.
 
 ## Modueles of the porject
 
@@ -13,7 +13,6 @@ An inventory management web application. It is developed using PHP laravel frame
 * Bank
 * Expenditure
 * Reports
-
 
 ## Feature of Laravel used to develop this application
 
