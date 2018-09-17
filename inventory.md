@@ -36,4 +36,14 @@ An inventory management web application. It is developed using PHP laravel frame
 
 ## Entity relationship diagram
 
-![Entity relationship diagram](https://github.com/almamuncsit/projects/blob/master/inventory/dashboard.png "Entity relationship diagram")
+![Entity relationship diagram](https://github.com/almamuncsit/projects/blob/master/inventory/inventory_erd.png "Entity relationship diagram")
+
+## Some Screenshoot of the application
+
+![Dashboard](https://github.com/almamuncsit/projects/blob/master/inventory/dashboard.png "Dashboard")
+
+![Invoice](https://github.com/almamuncsit/projects/blob/master/inventory/invoice.png "Invoice")
+
+![Add Product](https://github.com/almamuncsit/projects/blob/master/inventory/add-product.png "Add Product")
+
+![Report](https://github.com/almamuncsit/projects/blob/master/inventory/report.png "Report")
