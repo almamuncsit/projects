@@ -72,8 +72,12 @@ Password: 123456
 
 # Some screenshoot of the project
 
-### Home page]
+### Home page
 ![Home page](https://github.com/almamuncsit/projects/blob/master/weservices/home.jpg "Home page")
+
+### Service Provider Profile Page
+
+![Service Provider Profile Page](https://github.com/almamuncsit/projects/blob/master/weservices/profile.png "Service Provider Profile Page")
 
 ### Jobs
 ![Jobs](https://github.com/almamuncsit/projects/blob/master/weservices/jobs.png "Jobs")
