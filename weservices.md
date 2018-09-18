@@ -1,6 +1,6 @@
 # We Services
 
-This is marketplace for service provider and customers. This project has three sections one for customer one for service provider and anoter one for super admin. This project has lots of functionality. Among these here I am represent few of those. To know more about the project please look at the demo.
+This is a marketplace application for service provider and customers. This project has three sections one for customer one for service provider and another one for super admin. Here customer can post job and service providers bid on jobs. Finally customer hire service provider. This is not online marketplace this is offline marketplace. Here customer can hire service providers like AC Repairs, Desktop Repairs, Accountants, Barbers etc. This project has lots of functionality. Among these here I am represent few of those. To know more about the project please look at the demo.
 
 ## For visitors
 
