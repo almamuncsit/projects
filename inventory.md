@@ -2,6 +2,15 @@
 
 An inventory management web application. It is developed using PHP laravel framework. Each module of this project is independent reusable package. I used queue with redis for sending email, SMS and others time consuming task and passport package for API authentication. Broadcasting with pusher for sending notifications. For frontend i used AngularJs.
 
+## Live Demo
+
+Link: [http://inventory.artofcse.com](http://inventory.artofcse.com)
+
+```
+    Email: admin@gmail.com
+    Password: 123456
+```
+
 ## Modueles of the porject
 
 * HR
